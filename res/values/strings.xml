@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ringtones</string>
+    <string name="ringtones_text">Ringtones</string>
+    <string name="hint_apps_search">Enter contact name</string>
+    <string name="splashscreen">Splash screen</string>
+</resources>
